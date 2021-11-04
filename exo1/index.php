@@ -1,6 +1,6 @@
 <?php
 
-function pytha($AB, $AC,)
+function pytha($AB, $AC)
 {
   return $BC =(pow($AB, 2) + pow($AC, 2));
 };
