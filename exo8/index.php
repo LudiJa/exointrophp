@@ -1,17 +1,16 @@
 <?php
 
 function EstPair($nbr) {
-if($nbr % 2 == 0 ) {
-    echo "$nbr est Pair.";
-    $pair = true;
+    if($nbr % 2 == 0 ) {
+    // echo "$nbr est Pair.";
+        return true;
     } else {
-        echo "$nbr est Impair.";
-        $pair = false;
-};
-return;
+        // echo "$nbr est Impair.";
+        return false;
+    };
 };
 
-echo EstPair(8);
+// echo EstPair(8);
 
 
 $somme=0;
