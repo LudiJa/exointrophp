@@ -1,3 +1,3 @@
 exointrophp
 
-Fini exo 1-6
+Fini exo 1-7
