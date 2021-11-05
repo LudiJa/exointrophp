@@ -13,4 +13,4 @@ function heure($seconde) {
     echo "L'heure est $heure h $min min $rest s";
 };
 
-echo heure(347872);
+heure(347872);
