@@ -2,9 +2,10 @@
 
 function pytha($AB, $AC)
 {
-  return $BC =(pow($AB, 2) + pow($AC, 2));
+ return $BC = sqrt(pow($AB, 2) + pow($AC, 2));
 };
 
-echo "L'hypoténuse du triangle est " . pytha(12, 5);
+echo "L'hypoténuse du triangle est " . pytha(10, 10);
 
 // sqrt(nbr)  pour racine carré
+// round pour arrondir
