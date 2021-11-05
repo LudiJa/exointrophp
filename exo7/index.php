@@ -8,4 +8,4 @@ if($nbr % 2 === 0 ) {
 };
 };
 
-echo EstPair(8);
+EstPair(8);

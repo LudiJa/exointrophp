@@ -7,4 +7,4 @@ $posy = sin($alpha);
 return "Le point P est en x $posx et y $posy";
 };
 
-echo position(5);
+position(5);

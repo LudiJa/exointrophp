@@ -7,4 +7,4 @@ $b = $c;
 echo "a= $a et b = $b";
 };
 
-echo echange(5,6);
+echange(5,6);
